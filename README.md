@@ -21,6 +21,10 @@ yfinance
 
 ---
 
+**File:** [Trading Strategy](FundManagersTradingStrategy.ipynb)
+
+---
+
 ## Step 1: Get Data
 
 We’ll use the yFinance library to get our data
